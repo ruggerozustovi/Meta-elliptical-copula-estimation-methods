@@ -1,1 +1,3 @@
 # Meta-elliptical-copula-estimation-methods
+# Abstract
+The following dissertation explore a parametric and a non-parametric estimation methods for the generator function of a meta-elliptical copula. This research aims to contribute for the comprehension and modeling of dependencies among random variables through copulas. In the parametric approach, a fixed generator function belonging to a known distribution is used to model and estimate copula parameters, while the non-parametric route relies on the iterative MECIP procedure. By exploring these two distinct methodologies, my study seeks to provide a comprehensive understanding of meta-elliptical copula estimation techniques, offering valuable insights for applications in diverse statistical analyses.
